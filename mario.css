@@ -1,0 +1,42 @@
+.mario-top{
+  height:100px;
+  background-image:url(宇宙.jpg);
+  background-size:cover;
+  padding:100px 0 100px 0;
+    text-align:center;
+    color:white;
+    margin-bottom:60px;
+}
+.explain{
+  font-size: 60px;
+  font-weight:bold;
+  padding-top:80px;
+}
+.soundcloud-wrapper{
+  text-align:center;
+  background-image: url(mario-main.jpg);
+  background-size:cover;
+}
+.soundcloud-wrapper h1{
+  font-size:50px;
+}
+.soundcloud-wrapper p{
+  margin-bottom:150px;
+}
+.back{
+  padding:8px 24px;
+  color:white;
+  display:inline-block;
+  border-radius: 10px;
+  box-shadow:0 3px black ;
+  background-color: royalblue;
+  margin-bottom:30px;
+}
+.back:hover{
+  opacity:0.8;
+}
+.back:active{
+  box-shadow:none;
+  position:relative;
+  top:3px;
+}

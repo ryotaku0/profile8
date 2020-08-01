@@ -1,0 +1,66 @@
+.container{
+  margin:0 auto;
+  width:100%;
+}
+header{
+  background-color: black;
+  width:100%;
+  height:300px;
+  color:white;
+  text-align: center;
+  padding-top: 50px;
+}
+.butsu-butsu{
+  background-image: url(journey模様.jpg);
+  text-align:center;
+  background-attachment:fixed;
+}
+.journey-wrapper h1{
+  font-size: 100px;
+}
+.journey-wrapper p{
+  font-size:30px;
+  font-weight: bold;
+}
+.butsu-midashi p{
+  font-size: 60px;
+}
+
+.butsu-image{
+  width:500px;
+  height:700px;
+
+}
+.butsu-butsu p{
+  font-weight: bold;
+  display:inline-block;
+  text-align:center;
+  width:70%;
+}
+h2{
+  color:red;
+  font-weight: bold;
+  font-size:150px;
+}
+.back{
+  
+  padding:8px 24px;
+  color:white;
+  display:inline-block;
+  border-radius: 10px;
+  box-shadow:0 3px black ;
+  background-color: grey;
+  margin-bottom:30px;
+}
+.back:hover{
+  opacity:0.8;
+}
+.back:active{
+  box-shadow:none;
+  position:relative;
+  top:3px;
+}
+span{
+  color:red;
+  font-size:80px;
+}
